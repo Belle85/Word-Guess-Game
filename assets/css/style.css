@@ -1,0 +1,21 @@
+body {
+    background: url(../image/bobBackground.jpeg) no-repeat center center fixed;
+    background-size: cover;
+    text-align: right;
+}
+.main-container{
+    border: black 3px solid;
+    width: 680px;
+    float: right;
+}
+.rightPanel{
+    border: red 3px dotted;
+    width: 300px;
+    float:right;
+    
+}
+.leftPanel{
+    border:blue 3px dotted;
+    width: 300px;
+    float: right;
+}
